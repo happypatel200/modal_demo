@@ -47,3 +47,5 @@ To start the development server:
 Bash
 npm run dev
 This will typically start the application on http://localhost:5173 (or another port) and enable hot module reloading for development.
+
+![image alt](https://github.com/happypatel200/modal_demo/blob/f9ad474c21d1c2fd9e0b20b97900b6c59587fe47/M1.png)
